@@ -1,0 +1,8 @@
+# To update, run:
+#    pip-compile
+
+yfinance==0.2.41
+pandas==2.0.3
+matplotlib==3.7.1
+scipy==1.13.1
+statsmodels==0.14.2
