@@ -1,1 +1,1 @@
-Test
+This repository contains the code for the project "Using RSI-based Measures on VIX to Time the S&P 500 Index" for the Capstone Project MScFE 690. Please install the requirements in requirements.txt file and the code for the project can be found in the Capstone_Code.ipynb file.
